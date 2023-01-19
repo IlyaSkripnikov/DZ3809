@@ -1,0 +1,15 @@
+C:\Users\Админ\Desktop\DZadanie\DZ3809\Seminar2Zadacha1\bin\Debug\net6.0\Seminar2Zadacha1.exe
+C:\Users\Админ\Desktop\DZadanie\DZ3809\Seminar2Zadacha1\bin\Debug\net6.0\Seminar2Zadacha1.deps.json
+C:\Users\Админ\Desktop\DZadanie\DZ3809\Seminar2Zadacha1\bin\Debug\net6.0\Seminar2Zadacha1.runtimeconfig.json
+C:\Users\Админ\Desktop\DZadanie\DZ3809\Seminar2Zadacha1\bin\Debug\net6.0\Seminar2Zadacha1.dll
+C:\Users\Админ\Desktop\DZadanie\DZ3809\Seminar2Zadacha1\bin\Debug\net6.0\Seminar2Zadacha1.pdb
+C:\Users\Админ\Desktop\DZadanie\DZ3809\Seminar2Zadacha1\obj\Debug\net6.0\Seminar2Zadacha1.csproj.AssemblyReference.cache
+C:\Users\Админ\Desktop\DZadanie\DZ3809\Seminar2Zadacha1\obj\Debug\net6.0\Seminar2Zadacha1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Админ\Desktop\DZadanie\DZ3809\Seminar2Zadacha1\obj\Debug\net6.0\Seminar2Zadacha1.AssemblyInfoInputs.cache
+C:\Users\Админ\Desktop\DZadanie\DZ3809\Seminar2Zadacha1\obj\Debug\net6.0\Seminar2Zadacha1.AssemblyInfo.cs
+C:\Users\Админ\Desktop\DZadanie\DZ3809\Seminar2Zadacha1\obj\Debug\net6.0\Seminar2Zadacha1.csproj.CoreCompileInputs.cache
+C:\Users\Админ\Desktop\DZadanie\DZ3809\Seminar2Zadacha1\obj\Debug\net6.0\Seminar2Zadacha1.dll
+C:\Users\Админ\Desktop\DZadanie\DZ3809\Seminar2Zadacha1\obj\Debug\net6.0\refint\Seminar2Zadacha1.dll
+C:\Users\Админ\Desktop\DZadanie\DZ3809\Seminar2Zadacha1\obj\Debug\net6.0\Seminar2Zadacha1.pdb
+C:\Users\Админ\Desktop\DZadanie\DZ3809\Seminar2Zadacha1\obj\Debug\net6.0\Seminar2Zadacha1.genruntimeconfig.cache
+C:\Users\Админ\Desktop\DZadanie\DZ3809\Seminar2Zadacha1\obj\Debug\net6.0\ref\Seminar2Zadacha1.dll
