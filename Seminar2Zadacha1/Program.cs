@@ -2,7 +2,14 @@
 //456 -> 5
 //782 -> 8
 //918 -> 1
-Console.Write("Введи трёхзначное число: ");
-int number = Convert.ToInt32(Console.ReadLine());
-string stringNumber = Convert.ToString(number);
-Console.WriteLine($"Вторая цифра числа {+number} ->" +stringNumber[1]);
+Console.Write("Введите трёхзначное число: ");
+int a = Convert.ToInt32(Console.ReadLine());
+if (a > 99 && a < 1000)
+{
+   int result = (a % 100 - a % 10) / 10;
+   Console.WriteLine($"Вторая цифра числа {+a} -> {+result}"); 
+}
+else 
+{
+    Console.WriteLine("Число не трёхзначное"); 
+}
