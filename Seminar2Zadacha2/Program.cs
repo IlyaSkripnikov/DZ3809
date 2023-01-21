@@ -3,14 +3,24 @@
 78 -> третьей цифры нет
 32679 -> 6
 */
-Console.Write("Введите число: ");
-int a = Convert.ToInt32(Console.ReadLine());
-string b = Convert.ToString(a);
-if (b.Length > 2)
+int InputInt(string msg)
 {
-    Console.WriteLine("Третья цифра: " + b[2]);
+    System.Console.Write(msg + " > ");
+    string inputValue = Console.ReadLine();
+    int result = Convert.ToInt32(inputValue);
+    return result;
 }
-else
+int numIn = InputInt("Введите число: ");
+if (numIn / 100 == 0)
 {
     Console.WriteLine("Третьей цифры нет");
+}
+else 
+{
+    while (numIn > 1000)
+    {
+        numIn = numIn / 10;
+        
+    }
+    Console.WriteLine($"Третья цифра: {numIn % 10}");
 }
